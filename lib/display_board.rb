@@ -11,5 +11,5 @@ def display_board
   print "   |"
   print "   |"
   puts "   "
-
+end
   
